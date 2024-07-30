@@ -98,17 +98,18 @@ links:
     Username: "yarosmallorca"
     Color: "#66c0f4"
     Text_Color: "#000000"
-    Icon-Class: fab fa-steam
+    Icon-Class:
+      fab fa-steam
 
-    # DISCORD
-  - Name: Discord
-    URL: "https://discord.gg"
-    Username: yarossyubayev
-    Icon-Class: fab fa-discord
-    Color: "#5865F2"
-    Text_Color: "#ffffff"
+      # DISCORD
+  # - Name: Discord
+  #   URL: "https://discord.gg"
+  #   Username: yarossyubayev
+  #   Icon-Class: fab fa-discord
+  #   Color: "#5865F2"
+  #   Text_Color: "#ffffff"
 
-    # SPOTIFY
+  # SPOTIFY
   - Name: Spotify
     URL: http://open.spotify.com/user
     Username: ajisn08w99jcr8d4xqv2ezssu
@@ -119,7 +120,7 @@ links:
       # TIKTOK
   - Name: TikTok
     URL: https://www.tiktok.com
-    Username: yarosmallorca
+    Username: yaros_mallorca
     Color: "#FE2C55"
     Icon-Class: fab fa-tiktok
 
